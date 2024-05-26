@@ -1,0 +1,33 @@
+.container{
+    text-align: center;
+
+}
+
+img{
+    width:300px;
+    height:300px;
+    border-radius: 100%;
+    border-color: rgb(170, 36, 185);
+
+   
+   
+}
+body{
+    background-color: rgb(211, 196, 196);
+}
+h2{
+    color:rgb(12, 74, 54)
+}
+details{
+    color:rgb(200, 104, 176);
+    cursor: pointer;
+    font-size: 25px;
+}
+p{
+    color:rgb(242, 252, 254);
+    font-size: 15px;
+
+}
+b{
+    color:red
+}
